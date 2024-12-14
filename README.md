@@ -1,2 +1,2 @@
 # SoftUni-Homeworks
-SoftUni Tasks made during the courses.
+This is my repository for SoftUni Tasks made during the courses.
